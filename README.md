@@ -18,7 +18,7 @@ Identify high-revenue product lines and sales trends.
 
 Evaluate gross income and customer ratings.
 
-📂 Dataset Description
+### 📂 Dataset Description
 
 The dataset consists of 1,000 sales transactions from Walmart across 3 branches (A, B, C).
 
@@ -54,7 +54,7 @@ gross income → Profit earned
 
 Rating → Customer satisfaction rating (1–10 scale)
 
-🛠 Tools & Technologies
+### 🛠 Tools & Technologies
 
 Python → Pandas, NumPy, Matplotlib, Seaborn
 
