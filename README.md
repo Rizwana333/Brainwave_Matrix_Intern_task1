@@ -18,7 +18,7 @@ Identify high-revenue product lines and sales trends.
 
 Evaluate gross income and customer ratings.
 
-### 📂 Dataset Description
+## 📂 Dataset Description
 
 The dataset consists of 1,000 sales transactions from Walmart across 3 branches (A, B, C).
 
@@ -54,17 +54,15 @@ gross income → Profit earned
 
 Rating → Customer satisfaction rating (1–10 scale)
 
-### 🛠 Tools & Technologies
+## 🛠 Tools & Technologies
 
 Python → Pandas, NumPy, Matplotlib, Seaborn
 
 SQL → Data querying & aggregation
 
-Power BI / Tableau → Visualization & interactive dashboards
-
 Jupyter Notebook → Data analysis workflow
 
-📊 Analysis Performed
+## 📊 Analysis Performed
 
 Exploratory Data Analysis (EDA):
 
@@ -86,15 +84,8 @@ Average customer ratings by category.
 
 High-value transactions and frequent buyers.
 
-Visualizations:
 
-Sales trend plots (daily/weekly/monthly).
-
-Bar/heatmaps for product line vs revenue.
-
-Pie charts for payment methods and customer types.
-
-📌 Key Insights
+## 📌 Key Insights
 
 Branch C had the highest average gross income.
 
@@ -106,7 +97,7 @@ Health & Beauty and Food & Beverages were top-performing product lines.
 
 Evening transactions showed higher average sales compared to mornings.
 
-📈 Deliverables
+## 📈 Deliverables
 
 Cleaned dataset (CSV)
 
@@ -114,27 +105,10 @@ Python scripts & Jupyter notebooks
 
 SQL queries for branch/product analysis
 
-Visualization dashboards (Matplotlib/Seaborn/Power BI)
-
 Insights & business recommendations
 
-🚀 How to Run
 
-Clone the repository:
-
-git clone https://github.com/your-username/walmart-sales-analysis.git
-
-
-Install dependencies:
-
-pip install -r requirements.txt
-
-
-Run Jupyter Notebook:
-
-jupyter notebook Walmart_Sales_Analysis.ipynb
-
-📌 Future Enhancements
+## 📌 Future Enhancements
 
 Build a sales forecasting model (ARIMA/Prophet).
 
@@ -142,6 +116,6 @@ Create an interactive Power BI/Tableau dashboard.
 
 Perform customer segmentation (RFM analysis) for loyalty programs.
 
-📜 License
+## 📜 License
 
 This project is for educational and research purposes only. Dataset credit: Walmart Sales Data.
