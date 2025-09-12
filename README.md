@@ -1,12 +1,12 @@
 # Brainwave_Matrix_Intern_task1
-#🛒 Walmart Sales Data Analysis
+# 🛒 Walmart Sales Data Analysis
 📌 Project Overview
 
 This project explores and analyzes Walmart commercial store sales data to gain insights into customer behavior, product performance, and overall business growth. The dataset includes transaction details such as branch, city, customer type, product line, payment method, sales amount, gross income, and customer ratings.
 
 The main goal is to understand sales patterns, customer preferences, and revenue drivers to support better business decision-making.
 
-##🎯 Objectives
+## 🎯 Objectives
 
 Analyze sales performance across branches, cities, and product lines.
 
