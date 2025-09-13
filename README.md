@@ -8,15 +8,15 @@ The main goal is to understand sales patterns, customer preferences, and revenue
 
 ## 🎯 Objectives
 
-Analyze sales performance across branches, cities, and product lines.
+- Analyze sales performance across branches, cities, and product lines.
 
-Compare customer purchase behavior (gender, membership type).
+- Compare customer purchase behavior (gender, membership type).
 
-Study payment preferences and their impact on sales.
+- Study payment preferences and their impact on sales.
 
-Identify high-revenue product lines and sales trends.
+- Identify high-revenue product lines and sales trends.
 
-Evaluate gross income and customer ratings.
+- Evaluate gross income and customer ratings.
 
 ## 📂 Dataset Description
 
@@ -24,35 +24,35 @@ The dataset consists of 1,000 sales transactions from Walmart across 3 branches 
 
 Key Columns:
 
-Invoice ID → Unique transaction ID
+- Invoice ID → Unique transaction ID
 
-Branch → Branch code (A, B, C)
+- Branch → Branch code (A, B, C)
 
-City → Location of the branch
+- City → Location of the branch
 
-Customer type → Member or Normal customer
+- Customer type → Member or Normal customer
 
-Gender → Male / Female
+- Gender → Male / Female
 
-Product line → Product category (e.g., Health & Beauty, Electronics)
+- Product line → Product category (e.g., Health & Beauty, Electronics)
 
-Unit price → Price per unit
+- Unit price → Price per unit
 
-Quantity → Units purchased
+- Quantity → Units purchased
 
-Tax 5% → Tax on purchase
+- Tax 5% → Tax on purchase
 
-Total → Total bill (including tax)
+- Total → Total bill (including tax)
 
-Date / Time → Transaction date & time
+- Date / Time → Transaction date & time
 
-Payment → Mode of payment (Cash, Credit Card, E-wallet)
+- Payment → Mode of payment (Cash, Credit Card, E-wallet)
 
-cogs → Cost of goods sold
+- cogs → Cost of goods sold
 
-gross income → Profit earned
+- gross income → Profit earned
 
-Rating → Customer satisfaction rating (1–10 scale)
+- Rating → Customer satisfaction rating (1–10 scale)
 
 ## 🛠 Tools & Technologies
 
@@ -66,36 +66,36 @@ Jupyter Notebook → Data analysis workflow
 
 Exploratory Data Analysis (EDA):
 
-Sales distribution by branch and city.
+✔ Sales distribution by branch and city.
 
-Gender-based and customer-type purchase behavior.
+✔ Gender-based and customer-type purchase behavior.
 
-Product line performance (top-selling categories).
+✔ Product line performance (top-selling categories).
 
-Peak sales hours and days (time-based analysis).
+✔ Peak sales hours and days (time-based analysis).
 
-Payment method preferences.
+✔ Payment method preferences.
 
-Business Metrics:
+✔ Business Metrics:
 
-Gross income by branch and product line.
+✔ Gross income by branch and product line.
 
-Average customer ratings by category.
+✔ Average customer ratings by category.
 
-High-value transactions and frequent buyers.
+✔ High-value transactions and frequent buyers.
 
 
 ## 📌 Key Insights
 
-Branch C had the highest average gross income.
+✅Branch C had the highest average gross income.
 
-Female customers spent slightly more on average than males.
+✅Female customers spent slightly more on average than males.
 
-E-wallet was the most preferred payment method.
+✅E-wallet was the most preferred payment method.
 
-Health & Beauty and Food & Beverages were top-performing product lines.
+✅Health & Beauty and Food & Beverages were top-performing product lines.
 
-Evening transactions showed higher average sales compared to mornings.
+✅Evening transactions showed higher average sales compared to mornings.
 
 ## 📈 Deliverables
 
@@ -110,11 +110,11 @@ Insights & business recommendations
 
 ## 📌 Future Enhancements
 
-Build a sales forecasting model (ARIMA/Prophet).
+- Build a sales forecasting model (ARIMA/Prophet).
 
-Create an interactive Power BI/Tableau dashboard.
+- Create an interactive Power BI/Tableau dashboard.
 
-Perform customer segmentation (RFM analysis) for loyalty programs.
+- Perform customer segmentation (RFM analysis) for loyalty programs.
 
 ## 📜 License
 
