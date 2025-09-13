@@ -119,3 +119,10 @@ Insights & business recommendations
 ## 📜 License
 
 This project is for educational and research purposes only. Dataset credit: Walmart Sales Data.
+
+## 🤝 Connect with Me
+🎓 Senior Undergraduate Student | Aspiring Data Analyst
+💼 Interested in Data Analytics, Python, and Business Intelligence
+📧 Email: shaikrizwanabegum153@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/shaik-rizwana-begum-459a46269 
+📂 GitHub: https://github.com/Rizwana333
